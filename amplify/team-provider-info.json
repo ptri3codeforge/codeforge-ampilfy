@@ -1,26 +1,26 @@
 {
-    "dev": {
-        "awscloudformation": {
-            "AuthRoleName": "amplify-codeforgeamplify-dev-100254-authRole",
-            "UnauthRoleArn": "arn:aws:iam::374443495919:role/amplify-codeforgeamplify-dev-100254-unauthRole",
-            "AuthRoleArn": "arn:aws:iam::374443495919:role/amplify-codeforgeamplify-dev-100254-authRole",
-            "Region": "us-east-1",
-            "DeploymentBucketName": "amplify-codeforgeamplify-dev-100254-deployment",
-            "UnauthRoleName": "amplify-codeforgeamplify-dev-100254-unauthRole",
-            "StackName": "amplify-codeforgeamplify-dev-100254",
-            "StackId": "arn:aws:cloudformation:us-east-1:374443495919:stack/amplify-codeforgeamplify-dev-100254/3d923fd0-39a3-11ec-bc62-12200d6c7a0f",
-            "AmplifyAppId": "dhbxrp9c57onb"
-        },
-        "categories": {
-            "auth": {
-                "codeforgeamplify3be12c79": {}
-            },
-            "hosting": {
-                "amplifyhosting": {
-                    "appId": "dhbxrp9c57onb",
-                    "type": "cicd"
-                }
-            }
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-codeforgeamplify-dev-100254-authRole",
+      "UnauthRoleArn": "arn:aws:iam::374443495919:role/amplify-codeforgeamplify-dev-100254-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::374443495919:role/amplify-codeforgeamplify-dev-100254-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-codeforgeamplify-dev-100254-deployment",
+      "UnauthRoleName": "amplify-codeforgeamplify-dev-100254-unauthRole",
+      "StackName": "amplify-codeforgeamplify-dev-100254",
+      "StackId": "arn:aws:cloudformation:us-east-1:374443495919:stack/amplify-codeforgeamplify-dev-100254/3d923fd0-39a3-11ec-bc62-12200d6c7a0f",
+      "AmplifyAppId": "dhbxrp9c57onb"
+    },
+    "categories": {
+      "auth": {
+        "codeforgeamplify3be12c79": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dhbxrp9c57onb",
+          "type": "cicd"
         }
+      }
     }
+  }
 }
