@@ -6,7 +6,7 @@ export const getMessage = /* GraphQL */ `
   query GetMessage($id: ID!) {
     getMessage(id: $id) {
       id
-      owner
+      name
       message
       createdAt
       updatedAt
@@ -22,7 +22,7 @@ export const listMessages = /* GraphQL */ `
     listMessages(filter: $filter, limit: $limit, nextToken: $nextToken) {
       items {
         id
-        owner
+        name
         message
         createdAt
         updatedAt
